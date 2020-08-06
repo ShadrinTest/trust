@@ -1,0 +1,16 @@
+{
+  "name": "demo_trust",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_test.js",
+  "dependencies": {
+    "codeceptjs": "^2.6.7",
+    "webdriverio": "^6.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
