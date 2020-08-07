@@ -4,8 +4,8 @@
   "description": "",
   "main": "_test.js",
   "dependencies": {
-    "codeceptjs": "^2.6.7",
-    "webdriverio": "^6.3.6"
+    "codeceptjs": "^2.6.8",
+    "webdriverio": "^6.4.0"
   },
   "devDependencies": {},
   "scripts": {
